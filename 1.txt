@@ -2,3 +2,4 @@ practice
 我要練習git操作2
 我在做操作
 大象會飛
+練習conflict
